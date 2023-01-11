@@ -47,3 +47,39 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+body {
+  padding: 1em;
+  background-color: #2980b9;
+}
+h2 {
+  font-size: 2em;
+  color: #f39c12;
+}
+h3 {
+  font-size: 1.5em;
+  margin: 0.5em;
+  color: #f1c40f;
+}
+p {
+  margin: 1em;
+  color: #2c3e50;
+}
+ul {
+  margin: 1em;
+}
+a {
+  color: #8e44ad;
+}
+a:link {
+  color: #8e44ad;
+}
+a:visited {
+  color: #8e44ad;
+}
+a:hover {
+  color: #8e44ad;
+}
+a:active {
+  color: #8e44ad;
+}
